@@ -1,0 +1,57 @@
+.navbar-custom{
+	position: absolute;
+	top: 0;
+	width: 100%;
+}
+.navbar a{
+	color:blue;
+	font-weight: bold;
+}
+.nav li a:hover{
+	
+	background: red;
+}
+header{
+	height: 500px;
+	color: white;
+	padding: 160px 0;
+}
+header h1{
+	font-size: 60px;
+	text-shadow: 1px 1px 10px red;
+}
+header p{
+	font-size: 40px;
+	text-shadow: 2px 2px 2px red;
+
+}
+.block-a{
+	font-size:30px;
+	margin: 10px 5px;
+	border-top: 2px solid red;
+	padding: 5px 0px;
+	background: #f1f1f1;
+
+}
+.block-b{
+	font-size:30px;
+	margin: 10px 5px;
+	border-bottom: 2px solid red;
+	padding: 5px 0px;
+	background: #f1f1f1;
+}
+.footer{
+	width: 100%; 
+	padding:20px 0; 
+	background:black;
+	color:white;
+	
+}
+.thumbnail img{
+	height:300px;
+	width:300px;
+}
+.about_para{
+	font-size: 20px;
+	line-height:45px;
+}
